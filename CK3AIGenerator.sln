@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CK3AIGenerator.Console", "CK3AIGenerator.Console\CK3AIGenerator.Console.csproj", "{B967A765-B0FB-43A3-B43B-25F0AFB3D8ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CK3AIGenerator.Builder", "CK3AIGenerator.Builder\CK3AIGenerator.Builder.csproj", "{BF474DA5-3C18-420A-BC24-3DBE10C56BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CK3AIGenerator.Domain", "CK3AIGenerator.Domain\CK3AIGenerator.Domain.csproj", "{99B8B9CF-2264-43B4-B9F7-07F724F64B6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B967A765-B0FB-43A3-B43B-25F0AFB3D8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B967A765-B0FB-43A3-B43B-25F0AFB3D8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B967A765-B0FB-43A3-B43B-25F0AFB3D8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B967A765-B0FB-43A3-B43B-25F0AFB3D8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF474DA5-3C18-420A-BC24-3DBE10C56BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF474DA5-3C18-420A-BC24-3DBE10C56BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF474DA5-3C18-420A-BC24-3DBE10C56BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF474DA5-3C18-420A-BC24-3DBE10C56BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B8B9CF-2264-43B4-B9F7-07F724F64B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B8B9CF-2264-43B4-B9F7-07F724F64B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B8B9CF-2264-43B4-B9F7-07F724F64B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B8B9CF-2264-43B4-B9F7-07F724F64B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
